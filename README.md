@@ -49,7 +49,7 @@
 | Numpad 1			| Time of day backward |
 | Numpad 0			| Time of day freeze |
 ||
-| Home				| Enable camera |
+| Home				| Enable free camera |
 | I					| Camera forward |
 | K					| Camera backward  |
 | J					| Camera left  |
