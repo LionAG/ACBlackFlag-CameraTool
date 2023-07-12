@@ -21,6 +21,7 @@
 - Ubisoft Connect game version (1.07)
 - Mod Loader ([Download Here](https://github.com/LionAG/ScriptEngine/releases/latest))
 
+If you need help with the mod feel free to join the chat on [Element](https://matrix.to/#/!fiJSxMURNZlyjalmyA:matrix.org?via=matrix.org)
 ## Features
 - Time of Day
 - Camera control, also in cutscene (including custom roll, pitch, yaw)
