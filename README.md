@@ -23,15 +23,16 @@
 
 If you need help with the mod feel free to join the chat on [Element](https://matrix.to/#/!fiJSxMURNZlyjalmyA:matrix.org?via=matrix.org)
 ## Features
-- Time of Day
 - Camera control, also in cutscene (including custom roll, pitch, yaw)
 - Save / Restore camera position
 - Basic first person camera view
+- Built-in individual / panoramic screen capture
+- More natural shadow
+- Depth of Field
+- Time of Day
 - World Stop
 - Slow Motion
 - HUD Toggle
-- More natural shadow
-- Depth of Field
 
 ## Controls 
 
