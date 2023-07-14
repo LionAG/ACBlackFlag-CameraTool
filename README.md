@@ -21,7 +21,6 @@
 - Ubisoft Connect game version (1.07)
 - Mod Loader ([Download Here](https://github.com/LionAG/ScriptEngine/releases/latest))
 
-If you need help with the mod feel free to join the chat on [Element](https://matrix.to/#/!fiJSxMURNZlyjalmyA:matrix.org?via=matrix.org)
 ## Features
 - Camera control, also in cutscene (including custom roll, pitch, yaw)
 - Save / Restore camera position
@@ -36,17 +35,15 @@ If you need help with the mod feel free to join the chat on [Element](https://ma
   
 ## Installation
 
-- Download the latest mod loader (see Requirements section for link)
-- Extract the content in your game root folder 
-- Start `ScriptEngine.exe`. And when asked to type Yes or No, type Yes (with a capital Y)
-- Close the window
-- A folder name `[game_root_directory]\ScriptEngine_Data\` has been created. Add it to your Anti-Virus exceptions.
-- Start `ScriptEngineGUI.exe` and click `Add`
-- Browse to the folder where you downloaded `AC4_CameraTool.scrx` and choose that file
-- The script should be added to the library
-- Click `Run` to start the game with the imported script
+- Download the loader and extract the archive to the game root folder.
+- Run the GUI, click on `Add` and select the `.srcx` file.
+- Click on `Run` to start the game.
 
-## Controls 
+AV software such as Windows Defender is known to block the program - you may need to add it to the exclusion list.
+
+If you need help feel free to join the chat on [Element](https://matrix.to/#/!fiJSxMURNZlyjalmyA:matrix.org?via=matrix.org)
+
+## Controls
 
 | Key | Description |
 | --|-- |
