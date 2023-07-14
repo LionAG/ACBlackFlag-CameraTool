@@ -54,6 +54,8 @@ If you need help feel free to join the chat on [Element](https://matrix.to/#/!fi
 | F6				| Reset camera to initial position |
 | F7				| Store camera position |
 | F8				| Restore camera position |
+| F9				| Individual capture |
+| F10				| Panoramic capture |
 | Delete			| First person view  |
 ||
 | Numpad 3			| Time of day forward |
