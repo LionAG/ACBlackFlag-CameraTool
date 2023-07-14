@@ -44,7 +44,7 @@ If you need help with the mod feel free to join the chat on [Element](https://ma
 - Start `ScriptEngineGUI.exe` and click `Add`
 - Browse to the folder where you downloaded `AC4_CameraTool.scrx` and choose that file
 - The script should be added to the library
-- Click `Run` to start the game with the importd script
+- Click `Run` to start the game with the imported script
 
 ## Controls 
 
