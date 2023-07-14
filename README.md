@@ -40,7 +40,7 @@ If you need help with the mod feel free to join the chat on [Element](https://ma
 - Extract the content in your game root folder 
 - Start `ScriptEngine.exe`. And when asked to type Yes or No, type Yes (with a capital Y)
 - Close the window
-- A folder name `[game_root_directory]\ScriptEngine_Data\` as been created. Add it to your Anti-Virus exceptions.
+- A folder name `[game_root_directory]\ScriptEngine_Data\` has been created. Add it to your Anti-Virus exceptions.
 - Start `ScriptEngineGUI.exe` and click `Add`
 - Browse to the folder where you downloaded `AC4_CameraTool.scrx` and choose that file
 - The script should be added to the library
