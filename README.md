@@ -39,7 +39,7 @@
 - Run the GUI, click on `Add` and select the `.srcx` file.
 - Click on `Run` to start the game.
 
-AV software such as Windows Defender is known to block the program - you may need to add it to the exclusion list.
+Some AV software is known to block the program - you may need to add the game directory to the exclusion list.
 
 If you need help feel free to join the chat on [Element](https://matrix.to/#/!fiJSxMURNZlyjalmyA:matrix.org?via=matrix.org)
 
