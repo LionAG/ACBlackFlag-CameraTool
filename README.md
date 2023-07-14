@@ -36,7 +36,7 @@
 ## Installation
 
 - Download the loader and extract the archive to the game root folder.
-- Run the GUI, click on `Add` and select the `.srcx` file.
+- Run the GUI, click on `Add` and select the `.scrx` file.
 - Click on `Run` to start the game.
 
 Some AV software is known to block the program - you may need to add the game directory to the exclusion list.
