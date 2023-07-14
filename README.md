@@ -33,6 +33,18 @@ If you need help with the mod feel free to join the chat on [Element](https://ma
 - World Stop
 - Slow Motion
 - HUD Toggle
+  
+## Installation
+
+- Download the latest mod loader (see Requirements section for link)
+- Extract the content in your game root folder 
+- Start `ScriptEngine.exe`. And when asked to type Yes or No, type Yes (with a capital Y)
+- Close the window
+- A folder name `[game_root_directory]\ScriptEngine_Data\` has been created. Add it to your Anti-Virus exceptions.
+- Start `ScriptEngineGUI.exe` and click `Add`
+- Browse to the folder where you downloaded `AC4_CameraTool.scrx` and choose that file
+- The script should be added to the library
+- Click `Run` to start the game with the imported script
 
 ## Controls 
 
