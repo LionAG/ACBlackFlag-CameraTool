@@ -36,7 +36,7 @@ If you need help with the mod feel free to join the chat on [Element](https://ma
   
 ## Installation
 
-- Download the last mod loader (see Requirements section for link)
+- Download the latest mod loader (see Requirements section for link)
 - Extract the content in your game root folder 
 - Start `ScriptEngine.exe`. And when asked to type Yes or No, type Yes (with a capital Y)
 - Close the window
