@@ -23,9 +23,9 @@
 
 ## Features
 - Camera control, also in cutscene (including custom roll, pitch, yaw)
+- Built-in individual / panoramic screen capture 
 - Save / Restore camera position
 - Basic first person camera view
-- Built-in individual / panoramic screen capture
 - More natural shadow
 - Depth of Field
 - Time of Day
