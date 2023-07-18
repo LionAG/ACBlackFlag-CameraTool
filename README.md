@@ -26,13 +26,13 @@
 - Built-in individual / panoramic screen capture 
 - Save / Restore camera position
 - Basic first person camera view
+- Color correction
 - More natural shadow
 - Depth of Field
 - Time of Day
 - World Stop
 - Slow Motion
 - HUD Toggle
-- Colour Corrections
   
 ## Installation
 
@@ -69,7 +69,7 @@ If you need help feel free to join the chat on [Element](https://matrix.to/#/!fi
 | J					| Camera left  |
 | L					| Camera right |
 | Space				| Camera up |
-| Alt				| Camera down |
+| Control				| Camera down |
 | Numpad +			| Increase FOV |
 | Numpad -			| Decrease FOV |
 ||
