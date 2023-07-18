@@ -81,6 +81,20 @@ If you need help feel free to join the chat on [Element](https://matrix.to/#/!fi
 | Numpad 9			| Roll right |
 | Numpad 5			| Reset rotation to default |
 
+## Color Corrections
+
+| Key | Description |
+| --|-- |
+|ALT + NUMPAD9  |Increase Hue|
+|ALT + NUMPAD7  |Decrease Hue|
+|ALT + NUMPAD6  |Increase Saturation|
+|ALT + NUMPAD4  |Decrease Saturation|
+|ALT + NUMPAD3  |Increase Brightness|
+|ALT + NUMPAD1  |Decrease Brightness|
+|ALT + NUMPAD8  |Increase Contrast|
+|ALT + NUMPAD2  |Decrease Contrast|
+|ALT + NUMPAD5  |Reset|
+
 ## Custom keybinding
 
 To customise the camera keybinding as well as various other parameters, head to:
