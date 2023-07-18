@@ -32,6 +32,7 @@
 - World Stop
 - Slow Motion
 - HUD Toggle
+- Colour Corrections
   
 ## Installation
 
